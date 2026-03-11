@@ -386,7 +386,5 @@ Through this project I practiced:
 
 ---
 
-# Author
-
 Developed as a **Data Structures and Algorithms project** focused on simulating browser navigation mechanics using fundamental data structures in C.
 
